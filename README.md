@@ -8,5 +8,5 @@
 
 <p> Le README te donneras toutes les informations sur la team, les frmaeworks, le but du projet, etc... </p>
 
-<p> <strong> Bon amusement ;) </strong></p>
+<p> <strong> Amusez-vous bien ;) </strong></p>
 
